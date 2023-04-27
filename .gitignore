@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Logs
+*.log
+
+# Distribution / packaging - built with Poetry. Available on PyPi.
+dist/
+
